@@ -1,0 +1,81 @@
+# Ignore all class files
+*.class
+
+# Ignore compiled files
+*.o
+*.so
+*.dll
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore directories
+/bin/
+/build/
+/target/
+previous/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+.cph/
+*.iml
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Directories
+/bin/
+/target/
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+/bin/
+/build/
+/target/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
